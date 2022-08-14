@@ -1,0 +1,8 @@
+.middle {
+  margin: 5px 250px 0 250px;
+}
+img,
+svg {
+  vertical-align: middle;
+  height: 400px;
+}
